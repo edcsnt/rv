@@ -1,0 +1,1 @@
+java.exe -jar revanced-cli-all.jar patch -b revanced-patches.jar --exclusive <patches.txt> -m revanced-integrations.apk -o app.rvx.android.youtube.apk --options=options.json -p --rip-lib=armeabi-v7a --rip-lib=x86 --rip-lib=x86_64 -w com.google.android.youtube.apk

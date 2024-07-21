@@ -1,0 +1,115 @@
+[
+  {
+    "patchName": "Custom branding icon for YouTube",
+    "options": [
+      {
+        "key": "AppIcon",
+        "value": "youtube"
+      },
+      {
+        "key": "ChangeSplashIcon",
+        "value": true
+      },
+      {
+        "key": "RestoreOldSplashAnimation",
+        "value": false
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding name for YouTube",
+    "options": [
+      {
+        "key": "AppName",
+        "value": "YouTube"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom header for YouTube",
+    "options": [
+      {
+        "key": "CustomHeader",
+        "value": "custom_branding_icon"
+      }
+    ]
+  },
+  {
+    "patchName": "GmsCore support",
+    "options": [
+      {
+        "key": "GmsCoreVendorGroupId",
+        "value": "app.revanced"
+      },
+      {
+        "key": "CheckGmsCore",
+        "value": true
+      },
+      {
+        "key": "PackageNameYouTube",
+        "value": "app.rvx.android.youtube"
+      },
+      {
+        "key": "PackageNameYouTubeMusic",
+        "value": "app.rvx.android.apps.youtube.music"
+      }
+    ]
+  },
+  {
+    "patchName": "Overlay buttons",
+    "options": [
+      {
+        "key": "IconType",
+        "value": "bold"
+      },
+      {
+        "key": "BottomMargin",
+        "value": "0.0dip"
+      }
+    ]
+  },
+  {
+    "patchName": "Settings for YouTube",
+    "options": [
+      {
+        "key": "InsertPosition",
+        "value": "@string/about_key"
+      },
+      {
+        "key": "RVXSettingsMenuName",
+        "value": "ReVanced Extended"
+      }
+    ]
+  },
+  {
+    "patchName": "SponsorBlock",
+    "options": [
+      {
+        "key": "OutlineIcon",
+        "value": true
+      }
+    ]
+  },
+  {
+    "patchName": "Theme",
+    "options": [
+      {
+        "key": "DarkThemeBackgroundColor",
+        "value": "@android:color/black"
+      },
+      {
+        "key": "LightThemeBackgroundColor",
+        "value": "@android:color/white"
+      }
+    ]
+  },
+  {
+    "patchName": "Visual preferences icons",
+    "options": [
+      {
+        "key": "RVXSettingsMenuIcon",
+        "value": "revanced"
+      }
+    ]
+  }
+]
