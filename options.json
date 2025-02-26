@@ -1,0 +1,81 @@
+[
+  {
+    "patchName": "Custom branding icon for YouTube",
+    "options": [
+      {
+        "key": "appIcon",
+        "value": "youtube"
+      },
+      {
+        "key": "restoreOldSplashAnimation",
+        "value": false
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding name for YouTube",
+    "options": [
+      {
+        "key": "appName",
+        "value": "YouTube"
+      }
+    ]
+  },
+  {
+    "patchName": "Hide shortcuts",
+    "options": [
+      {
+        "key": "explore",
+        "value": true
+      },
+      {
+        "key": "subscriptions",
+        "value": true
+      },
+      {
+        "key": "search",
+        "value": true
+      }
+    ]
+  },
+  {
+    "patchName": "Settings for YouTube",
+    "options": [
+      {
+        "key": "rvxSettingsLabel",
+        "value": "ReVanced Extended"
+      }
+    ]
+  },
+  {
+    "patchName": "SponsorBlock",
+    "options": [
+      {
+        "key": "outlineIcon",
+        "value": true
+      }
+    ]
+  },
+  {
+    "patchName": "Translations for YouTube",
+    "options": [
+      {
+        "key": "selectedTranslations",
+        "value": ""
+      },
+      {
+        "key": "selectedStringResources",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "patchName": "Visual preferences icons for YouTube",
+    "options": [
+      {
+        "key": "applyToAll",
+        "value": true
+      }
+    ]
+  }
+]
