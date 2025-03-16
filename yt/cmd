@@ -1,1 +1,1 @@
-java -jar revanced-cli.jar patch --exclusive --purge --keystore=rvx.keystore --legacy-options=options.json -o app.rvx.android.youtube.apk -p patches.rvp --rip-lib=armeabi-v7a --rip-lib=x86 --rip-lib=x86_64 <patches> com.google.android.youtube.apk
+java -jar revanced-cli.jar patch --exclusive --purge --keystore=../rvx.keystore --legacy-options=options.json -o app.rvx.android.youtube.apk -p patches.rvp --rip-lib=armeabi-v7a --rip-lib=x86 --rip-lib=x86_64 <patches> com.google.android.youtube.apk
