@@ -1,4 +1,6 @@
-*-temporary-files/
-*.apk
-*.jar
-*.rvp
+**/*-temporary-files/
+**/*.apk
+**/*.jar
+**/*.rvp
+**/changes.diff
+**/tmp
