@@ -1,59 +1,75 @@
-'Hide ads'
-'Hide feed components'
-'Hide feed flyout menu'
-'Disable forced auto audio tracks'
-'Disable forced auto captions'
-'Hide layout components'
-'Remove viewer discretion dialog'
-'Hook download actions'
-'Change live ring click action'
-'Hook YouTube Music actions'
-'Navigation bar components'
-'Snack bar components'
-'Disable splash animation'
-'Spoof app version'
-'Change start page'
-'Toolbar components'
-'Custom Shorts action buttons'
-'Custom branding icon for YouTube'
-'Custom branding name for YouTube'
-'Hide Shorts dimming'
-'Force hide player buttons background'
-'Hide shortcuts'
-MaterialYou
-Theme
-'Translations for YouTube'
-'Visual preferences icons for YouTube'
-'Hide accessibility controls dialog'
-'Remove background playback restrictions'
-'Enable OPUS codec'
-'Bypass URL redirects'
-'Open links externally'
-'Disable QUIC protocol'
-'Change share sheet'
-'Sanitize sharing links'
-'Watch history'
-'Hide action buttons'
-'Ambient mode control'
-'Hide player buttons'
-'Hide comments components'
-'Player components'
-'Description components'
-'Hide player flyout menu'
-'Change player flyout menu toggles'
-'Fullscreen components'
-'Disable haptic feedback'
-Miniplayer
-'Disable resuming Miniplayer on startup'
-'Overlay buttons'
-'Seekbar components'
-'Shorts components'
-'Disable resuming Shorts on startup'
-'Swipe controls'
-'Spoof streaming data'
-'GmsCore support'
-'Return YouTube Dislike'
-'Return YouTube Username'
-'Settings for YouTube'
-SponsorBlock
-'Video playback'
+-e "Hide ads"
+-e "Hide feed components"
+-e "Hide feed flyout menu"
+-e "Disable forced auto audio tracks"
+-e "Disable forced auto captions"
+-e "Hide layout components"
+-e "Remove viewer discretion dialog"
+-e "Hook download actions"
+-e "Change live ring click action"
+-e "Hook YouTube Music actions"
+-e "Navigation bar components"
+-e "Snack bar components"
+-e "Disable splash animation"
+-e "Spoof app version"
+-e "Change start page"
+-e "Toolbar components"
+-e "Custom Shorts action buttons"
+-OiconType=outline
+-e "Custom branding icon for YouTube"
+-OappIcon=youtube
+-OrestoreOldSplashAnimation=false
+-e "Custom branding name for YouTube"
+-OappName=YouTube
+-e "Hide Shorts dimming"
+-e "Force hide player buttons background"
+-e "Hide shortcuts"
+-Oexplore=true
+-Osubscriptions=true
+-Osearch=true
+-e MaterialYou
+-e Theme
+-OdarkThemeBackgroundColor=#FF290025
+-OlightThemeBackgroundColor=#FFFCCFF3
+-e "Translations for YouTube"
+-OselectedTranslations=pt-rBR
+-OselectedStringResources=pt-rBR
+-e "Visual preferences icons for YouTube"
+-OapplyToAll=true
+-e "Hide accessibility controls dialog"
+-e "Remove background playback restrictions"
+-e "Enable OPUS codec"
+-e "Bypass URL redirects"
+-e "Open links externally"
+-e "Disable QUIC protocol"
+-e "Change share sheet"
+-e "Sanitize sharing links"
+-e "Watch history"
+-e "Hide action buttons"
+-e "Ambient mode control"
+-e "Hide player buttons"
+-e "Hide comments components"
+-e "Player components"
+-e "Description components"
+-e "Hide player flyout menu"
+-e "Change player flyout menu toggles"
+-e "Fullscreen components"
+-e "Disable haptic feedback"
+-e Miniplayer
+-e "Disable resuming Miniplayer on startup"
+-e "Overlay buttons"
+-e "Seekbar components"
+-e "Shorts components"
+-e "Disable resuming Shorts on startup"
+-e "Swipe controls"
+-e "Spoof streaming data"
+-OoutlineIcon=true
+-e "GmsCore support"
+-e "Return YouTube Dislike"
+-e "Return YouTube Username"
+-e "Settings for YouTube"
+-OinsertPosition=@string/about_key
+-O"rvxSettingsLabel=ReVanced Extended"
+-e SponsorBlock
+-OoutlineIcon=true
+-e "Video playback"
