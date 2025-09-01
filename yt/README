@@ -1,2 +1,2 @@
-java -jar ../revanced-cli.jar list-patches -d=false -i=false -o -f com.google.android.youtube patches.rvp >tmp
-java -jar ../revanced-cli.jar list-patches -d=false -i=false -o -f com.google.android.youtube patches.rvp | diff.exe -u tmp - >changes.diff
+java -jar ../revanced-cli.jar list-patches -d=false -i=false -o -f com.google.android.youtube patches-old.rvp >tmp
+java -jar ../revanced-cli.jar list-patches -d=false -i=false -o -f com.google.android.youtube patches-new.rvp | diff.exe -u tmp - >changes.diff

@@ -9,6 +9,7 @@
 -e "Change live ring click action"
 -e "Hook YouTube Music actions"
 -e "Navigation bar components"
+-e "Disable sign in to TV popup"
 -e "Snack bar components"
 -e "Disable splash animation"
 -e "Spoof app version"
@@ -38,7 +39,6 @@
 -OapplyToAll=true
 -e "Hide accessibility controls dialog"
 -e "Remove background playback restrictions"
--e "Enable OPUS codec"
 -e "Bypass URL redirects"
 -e "Open links externally"
 -e "Disable QUIC protocol"
