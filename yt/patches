@@ -18,10 +18,8 @@
 -e "Custom Shorts action buttons"
 -OiconType=outline
 -e "Custom branding icon for YouTube"
--OappIcon=youtube
 -OrestoreOldSplashAnimation=false
 -e "Custom branding name for YouTube"
--OappName=YouTube
 -e "Hide Shorts dimming"
 -e "Force hide player buttons background"
 -e "Hide shortcuts"
@@ -30,8 +28,6 @@
 -Osearch=true
 -e MaterialYou
 -e Theme
--OdarkThemeBackgroundColor=#FF290025
--OlightThemeBackgroundColor=#FFFCCFF3
 -e "Translations for YouTube"
 -OselectedTranslations=pt-rBR
 -OselectedStringResources=pt-rBR
@@ -69,7 +65,6 @@
 -e "Return YouTube Username"
 -e "Settings for YouTube"
 -OinsertPosition=@string/about_key
--O"rvxSettingsLabel=ReVanced Extended"
 -e SponsorBlock
 -OoutlineIcon=true
 -e "Video playback"
