@@ -1,3 +1,5 @@
+-e "Spoof Wi-Fi connection"
+-e "Change version code"
 -e "Hide ads"
 -e "Hide feed components"
 -e "Hide feed flyout menu"
