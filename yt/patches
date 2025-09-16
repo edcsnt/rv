@@ -1,5 +1,3 @@
--e "Spoof Wi-Fi connection"
--e "Change version code"
 -e "Hide ads"
 -e "Hide feed components"
 -e "Hide feed flyout menu"
@@ -18,9 +16,7 @@
 -e "Change start page"
 -e "Toolbar components"
 -e "Custom Shorts action buttons"
--OiconType=outline
 -e "Custom branding icon for YouTube"
--OrestoreOldSplashAnimation=false
 -e "Custom branding name for YouTube"
 -e "Hide Shorts dimming"
 -e "Force hide player buttons background"
@@ -31,8 +27,8 @@
 -e MaterialYou
 -e Theme
 -e "Translations for YouTube"
--OselectedTranslations=pt-rBR
--OselectedStringResources=pt-rBR
+-OselectedTranslations=
+-OselectedStringResources=
 -e "Visual preferences icons for YouTube"
 -OapplyToAll=true
 -e "Hide accessibility controls dialog"
@@ -60,13 +56,10 @@
 -e "Shorts components"
 -e "Disable resuming Shorts on startup"
 -e "Swipe controls"
--e "Spoof streaming data"
--OoutlineIcon=true
 -e "GmsCore support"
 -e "Return YouTube Dislike"
 -e "Return YouTube Username"
 -e "Settings for YouTube"
 -OinsertPosition=@string/about_key
 -e SponsorBlock
--OoutlineIcon=true
 -e "Video playback"

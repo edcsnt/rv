@@ -1,6 +1,3 @@
--e "Hide ADB status"
--e "Hide mock location"
--e "Spoof Wi-Fi connection"
 -e "Remove screenshot restriction"
 -e "Feed filter"
 -e "Remember clear display"
