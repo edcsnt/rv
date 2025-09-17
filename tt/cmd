@@ -1,2 +1,2 @@
-/* Copyright 2025 Eduardo Santos. All Rights Reserved. */
+/* Copyright 2025 Eduardo Santos. All rights reserved. */
 java -jar ../revanced-cli.jar patch --exclusive --purge --keystore=../rv.keystore -o app.revanced.android.ugc.trill.apk -p patches.rvp --rip-lib=arm64-v8a --rip-lib=armeabi-v7a --rip-lib=x86 --rip-lib=x86_64 <patches> com.ss.android.ugc.trill.apk
